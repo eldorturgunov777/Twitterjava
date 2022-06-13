@@ -105,7 +105,7 @@
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_marginRight="3dp"
-                        app:backgroundTint="@color/black"
+                        app:tint="@color/black"
                         android:src="@mipmap/ic_comment" />
 
                     <TextView
@@ -126,7 +126,7 @@
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_marginRight="3dp"
-                        app:backgroundTint="@color/black"
+                        app:tint="@color/black"
                         android:src="@mipmap/ic_transform" />
 
                     <TextView
@@ -147,7 +147,7 @@
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_marginRight="3dp"
-                        app:backgroundTint="@color/black"
+                        app:tint="@color/black"
                         android:src="@mipmap/ic_love" />
 
                     <TextView
@@ -168,7 +168,7 @@
                         android:layout_width="20dp"
                         android:layout_height="20dp"
                         android:layout_marginRight="3dp"
-                        app:backgroundTint="@color/black"
+                        app:tint="@color/black"
                         android:src="@mipmap/ic_upload" />
 
                     <TextView

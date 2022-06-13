@@ -43,7 +43,6 @@ public class FeedAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
             ((FeedViewHolder) holder).vv_video.setVideoURI(Uri.parse("android.resource://" + context.getPackageName() + "/" + data.getVideo()));
             ((FeedViewHolder) holder).tv_fullname.setText(data.getFullname());
             ((FeedViewHolder) holder).vv_video.setOnClickListener(view -> ((FeedViewHolder) holder).vv_video.start());
-
         }
     }
 
